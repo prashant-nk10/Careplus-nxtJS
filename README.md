@@ -1,6 +1,6 @@
 # Healthcare Application
 ![img](images/img.png)
-<div align="center"><b>A HealthCare Management System</b></div>
+### A HealthCare Management System
 ## Tech Stack
 ![Next JS](https://img.shields.io/badge/Next%20JS-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
