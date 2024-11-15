@@ -1,5 +1,5 @@
 # Healthcare Application
-![Healthcare Application Banner]("C:/Users/prash/Downloads/img.png")
+![Healthcare Application Banner]("https://youtu.be/lEflo_sc82g?feature=shared")
 A HealthCare Management System
 ## Tech Stack
 ![Next JS](https://img.shields.io/badge/Next%20JS-black?style=for-the-badge&logo=next.js)
